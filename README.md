@@ -1,1 +1,1 @@
-<p style="font-family: 'Lucida Console';">yo</p>
+<p style="font-family: sans-serif;font-size: 20px">yo</p>
